@@ -1,10 +1,11 @@
-ID: 1, Title: Car
-ID: 2, Title: Doll
-ID: 0, Title: Cat
-ID: 0, Title: Cat
-ID: 0, Title: Cat
-ID: 1, Title: Car
-ID: 2, Title: Doll
-ID: 0, Title: Cat
-ID: 0, Title: Cat
-ID: 0, Title: Cat
+ID: 0, Title: Глаша
+ID: 1, Title: железная дорога
+ID: 2, Title: Кукла
+ID: 7, Title: солдатик
+ID: 2, Title: Кукла
+ID: 5, Title: пистолет
+ID: 7, Title: солдатик
+ID: 0, Title: машинка
+ID: 0, Title: машинка
+ID: 1, Title: железная дорога
+ID: 1, Title: железная дорога
